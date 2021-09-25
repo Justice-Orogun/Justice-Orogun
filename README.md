@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hello Everyone! 👋
 
-<!--
-**Justice-Orogun/Justice-Orogun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is **Justice-Orogun**.I am an Award Winner, Writer and Full Stack Developer. 
 
-Here are some ideas to get you started:
+I enjoy travelling, collaborating with people and business organisations to create meaningful impact. I am currently working on one of my business brands which has the potential to revolutionalize Africa in the next couple of a years.. I’m currently learning Machine Language and looking to collaborate on Artificial Intelligence (AI) and Virtual Reality (VR). 
+In my spare time, I write on tech and software developement on DEV.to community.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+You can reach me through the following mediums:
+https://twitter.com/justice_orogun 
+https://linkedin.com/justice-orogun 
+
+Pronounce: He/His
+One funfact about me is that, I learn alot, I multitask alot and I love to talk about MONEY alot. 
+Thank you. 
